@@ -23,9 +23,9 @@
     "classnames": "^2.2.5",
     "cross-env": "^5.2.0",
     "d3": "^4.10.2",
-    "next": "^3.2.2",
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "next": "4.2.3",
+    "react": "16",
+    "react-dom": "16"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
